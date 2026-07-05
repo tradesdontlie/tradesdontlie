@@ -25,6 +25,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: tradesdontlie
+          SETTING_JSON: conf/3d-settings.json
+
+      - name: make skyline animation loop
+        run: python3 scripts/loopify.py profile-3d-contrib/profile-skyline.svg
 
       - name: build repo cards
         env:

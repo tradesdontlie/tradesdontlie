@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%"/>
+<img src="profile-3d-contrib/profile-skyline.svg" alt="3d contribution graph" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tradesdontlie&bg_color=0d1117&color=8b949e&line=00d4aa&point=3fb950&area=true&hide_border=true&custom_title=commit%20flow&radius=8" alt="commit activity" width="94%"/>
 

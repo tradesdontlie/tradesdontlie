@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-skyline.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#8b949e",
+  "strongColor": "#00d4aa",
+  "weakColor": "#30363d",
+  "radarColor": "#00d4aa",
+  "growingAnimation": true,
+  "contribColors": [
+    "#161b22",
+    "#0a3d33",
+    "#0c6b57",
+    "#00d4aa",
+    "#8ff5e0"
+  ]
+}
