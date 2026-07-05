@@ -19,7 +19,7 @@
 <a href="https://github.com/tradesdontlie/pinescript-compiler"><img src="assets/cards/pinescript-compiler.svg" alt="pinescript-compiler" width="420"/></a>
 <a href="https://github.com/tradesdontlie/prop-firm-monte-carlo"><img src="assets/cards/prop-firm-monte-carlo.svg" alt="prop-firm-monte-carlo" width="420"/></a>
 
-<sub>cards regenerate daily with live star counts — no third-party stat services to break</sub>
+<sub>cards regenerate weekly with live star counts — no third-party stat services to break</sub>
 
 </div>
 
