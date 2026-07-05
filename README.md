@@ -12,24 +12,14 @@
 
 <div align="center">
 
-<a href="https://github.com/tradesdontlie/tradingview-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tradesdontlie&repo=tradingview-mcp&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d" alt="tradingview-mcp"/>
-</a>
-<a href="https://github.com/tradesdontlie/task-manager-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tradesdontlie&repo=task-manager-mcp&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d" alt="task-manager-mcp"/>
-</a>
-<a href="https://github.com/tradesdontlie/pine-script-v6-extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tradesdontlie&repo=pine-script-v6-extension&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d" alt="pine-script-v6-extension"/>
-</a>
-<a href="https://github.com/tradesdontlie/pinescript-development-workspace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tradesdontlie&repo=pinescript-development-workspace&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d" alt="pinescript-development-workspace"/>
-</a>
-<a href="https://github.com/tradesdontlie/pinescript-compiler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tradesdontlie&repo=pinescript-compiler&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d" alt="pinescript-compiler"/>
-</a>
-<a href="https://github.com/tradesdontlie/prop-firm-monte-carlo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tradesdontlie&repo=prop-firm-monte-carlo&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d" alt="prop-firm-monte-carlo"/>
-</a>
+<a href="https://github.com/tradesdontlie/tradingview-mcp"><img src="assets/cards/tradingview-mcp.svg" alt="tradingview-mcp" width="420"/></a>
+<a href="https://github.com/tradesdontlie/task-manager-mcp"><img src="assets/cards/task-manager-mcp.svg" alt="task-manager-mcp" width="420"/></a>
+<a href="https://github.com/tradesdontlie/pine-script-v6-extension"><img src="assets/cards/pine-script-v6-extension.svg" alt="pine-script-v6-extension" width="420"/></a>
+<a href="https://github.com/tradesdontlie/pinescript-development-workspace"><img src="assets/cards/pinescript-development-workspace.svg" alt="pinescript-development-workspace" width="420"/></a>
+<a href="https://github.com/tradesdontlie/pinescript-compiler"><img src="assets/cards/pinescript-compiler.svg" alt="pinescript-compiler" width="420"/></a>
+<a href="https://github.com/tradesdontlie/prop-firm-monte-carlo"><img src="assets/cards/prop-firm-monte-carlo.svg" alt="prop-firm-monte-carlo" width="420"/></a>
+
+<sub>cards regenerate daily with live star counts — no third-party stat services to break</sub>
 
 </div>
 
@@ -51,7 +41,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tradesdontlie&show_icons=true&hide_title=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=3fb950&border_color=30363d&hide_border=false&count_private=true" alt="stats"/>
+<img src="profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tradesdontlie&bg_color=0d1117&color=8b949e&line=00d4aa&point=3fb950&area=true&hide_border=true&custom_title=commit%20flow&radius=8" alt="commit activity" width="94%"/>
+
+<br/><br/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=tradesdontlie&background=0d1117&ring=00d4aa&fire=f85149&currStreakLabel=00d4aa&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&border=30363d" alt="streak"/>
 
 <br/><br/>
@@ -67,4 +62,3 @@
 `opinions are noise. price is data. trades don't lie.`
 
 </div>
-
