@@ -67,3 +67,4 @@
 `opinions are noise. price is data. trades don't lie.`
 
 </div>
+
