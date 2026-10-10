@@ -3,45 +3,82 @@
 </p>
 
 <p align="center">
-  <strong>Co-Founder & Chief Product Officer at <a href="https://thedailyprofiler.com/about">The Daily Profiler</a></strong><br>
-  I turn trading methodologies into software—and build the tools that let AI work alongside it.
+  <strong>Co-Founder &amp; Chief Product Officer at <a href="https://thedailyprofiler.com/about">The Daily Profiler</a></strong><br>
+  I build software for traders, create AI tools, and help a team turn ideas into working products.
 </p>
 
 <p align="center">
-  <a href="https://thedailyprofiler.com">THE DAILY PROFILER</a> &nbsp; / &nbsp;
-  <a href="https://github.com/tradesdontlie/tradingview-mcp">TRADINGVIEW MCP</a> &nbsp; / &nbsp;
-  <a href="https://github.com/tradesdontlie?tab=repositories&amp;type=source">OPEN SOURCE</a>
+  <a href="#the-daily-profiler">PRODUCT PORTFOLIO</a> &nbsp; / &nbsp;
+  <a href="#open-source-flagship">TRADINGVIEW MCP</a> &nbsp; / &nbsp;
+  <a href="#languages--tooling">LANGUAGES + TOOLING</a>
 </p>
 
-## Platforms & systems
+## The Daily Profiler
 
-<a href="https://thedailyprofiler.com"><img src="assets/tdl/daily-profiler.svg" width="100%" alt="The Daily Profiler — Co-Founder and Chief Product Officer. Market analytics, backtesting, trader workflows, and education."></a>
+<p align="center">
+  <a href="https://thedailyprofiler.com"><img src="assets/tdl/daily-profiler-logo.svg" width="620" alt="The Daily Profiler — Aligning the Now with the Then."></a>
+</p>
 
-My main product work lives at [@thedailyprofiler](https://github.com/thedailyprofiler): historical futures analytics, Candle Science, research and risk tools, journaling, business planning, and Bootcamp. Much of the source is private. [The products are the public window into that work.](https://thedailyprofiler.com)
+**From market research to the tools a trading business runs on.** My work spans hands-on development, product direction, and guiding implementation with the team across the organization—not just the repositories where I commit code.
+
+<a href="https://thedailyprofiler.com/products"><img src="assets/tdl/daily-profiler-app.png" width="100%" alt="Actual Daily Profiler product interface: session filters, market distributions, and historical analysis charts."></a>
+
+<sub>Daily Profiler app · Public product imagery from our website.</sub>
+
+These six areas cover our full repository portfolio: customer products, internal tools, active development, and experiments. Most of the source stays private; the scope of the work does not have to.
+
+<p align="center">
+  <img src="assets/tdl/org-market.svg" width="400" alt="MARKET INTELLIGENCE: Daily and weekly profiling. Candle analysis. Market dashboards, indicators, and replay.">
+  <img src="assets/tdl/org-research.svg" width="400" alt="RESEARCH + STRATEGY: Backtesting, risk, and strategy workbenches. Validation tools and trading integrations.">
+</p>
+
+<p align="center">
+  <img src="assets/tdl/org-platform.svg" width="400" alt="PLATFORM + DATA: Market data, shared datasets, and compute. Reusable services, identity, and app tooling.">
+  <img src="assets/tdl/org-business.svg" width="400" alt="TRADER + BUSINESS APPS: Journaling, performance review, and CRM. Accounting, placement, and community tools.">
+</p>
+
+<p align="center">
+  <img src="assets/tdl/org-education.svg" width="400" alt="EDUCATION + MEDIA: Bootcamp, curriculum, and lesson studios. Storyboards, video production, and rendering.">
+  <img src="assets/tdl/org-automation.svg" width="400" alt="AI + AUTOMATION: Agents, memory, planning, and shared skills. Content tools and publishing workflows.">
+</p>
+
+[Explore the products](https://thedailyprofiler.com/products) · [Bootcamp](https://thedailyprofilerbootcamp.com) · [Meet the team](https://thedailyprofiler.com/about)
+
+<details>
+<summary><strong>Inside the products: Candle Science &amp; Enterprise Journal</strong></summary>
+<br>
+<a href="https://thedailyprofiler.com/products"><img src="assets/tdl/candle-science.png" width="100%" alt="Candle Science public product screenshot showing candle analysis, filters, and historical probabilities."></a>
+<br><br>
+<a href="https://thedailyprofiler.com/products"><img src="assets/tdl/enterprise-journal.png" width="100%" alt="Enterprise Journal public product screenshot showing a journal, calendar, and demonstration performance dashboard. These are product demo figures, not my personal trading results."></a>
+<p><sub>Official public product screenshots. Dashboard figures are demonstration content, not my personal trading results.</sub></p>
+</details>
+
+## More private builds
+
+Outside the organization portfolio, I also work on:
+
+- **A custom charting workbench** — a market-analysis workspace with charts, studies, drawing tools, and live data. Rust, Python, and TypeScript; in development.
+- **A business operating platform** — sales, customer delivery, communications, and service operations in one workspace. Python and TypeScript; in development.
+- **A custom game engine** — a 2D action RPG built on my own C++ engine, including rendering and live editing tools. C++ and SDL3; pre-alpha.
+
+## Open-source flagship
 
 <a href="https://github.com/tradesdontlie/tradingview-mcp"><img src="assets/tdl/tradingview-mcp.svg" width="100%" alt="TradingView MCP — Connect AI agents to TradingView Desktop for Pine Script development, chart navigation, indicators, and automation."></a>
 
-**6,700+ GitHub stars.** Connects Claude Code to a locally running TradingView Desktop session through MCP and Chrome DevTools Protocol. [Read the research notes](https://github.com/tradesdontlie/tradingview-mcp/blob/HEAD/RESEARCH.md).
+**6,700+ GitHub stars.** Connects Claude Code to a locally running TradingView Desktop session through MCP and Chrome DevTools Protocol. [Explore the code](https://github.com/tradesdontlie/tradingview-mcp) · [Research notes](https://github.com/tradesdontlie/tradingview-mcp/blob/HEAD/RESEARCH.md)
 
 <sub>Independent and unofficial. Chart interaction and research only; it does not execute real trades.</sub>
 
-## Open-source workshop
+## Languages & tooling
 
-<p align="center">
-  <a href="https://github.com/tradesdontlie/tradingview-cli"><img src="assets/tdl/tradingview-cli.svg" width="440" alt="TradingView CLI — Desktop chart control from the terminal, with structured JSON for scripts and pipelines."></a>
-  <a href="https://github.com/tradesdontlie/pine-script-v6-extension"><img src="assets/tdl/pine-language-server.svg" width="440" alt="Pine Script v6 Language Server — Diagnostics, completions, and static analysis for VS Code and Cursor."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/tradesdontlie/prop-firm-monte-carlo"><img src="assets/tdl/monte-carlo.svg" width="440" alt="Prop Firm Monte Carlo — Simulate drawdown, survival, and evaluation rules with Python."></a>
-  <a href="https://github.com/tradesdontlie/task-manager-mcp"><img src="assets/tdl/task-manager.svg" width="440" alt="Task Manager MCP — Project planning, task tracking, and requirements breakdown for AI agents."></a>
-</p>
+Across my personal and team projects—public and private. This reflects the codebases I build in and help guide, rather than a ranking by public commit count.
 
-## Beyond the chart
+<img src="assets/tdl/languages.svg" width="100%" alt="Python, TypeScript, JavaScript, Rust, C++, C#, Go, GDScript, Pine Script, MQL5, CUDA, and HLSL.">
 
-I also work on custom software, business automation, and game-development projects. The common thread: building the underlying systems, the tools around them, and the interface people actually use.
-
-**Python · TypeScript / JavaScript · C# · C++ · Pine Script**<br>
-Trading analytics · MCP servers · Desktop automation · Developer tools · Game development
+- **Web & templates:** HTML, CSS, SCSS, Astro, MDX, Jinja, Mako.
+- **Data & shaders:** SQL, PL/pgSQL, GDShader.
+- **Scripting & automation:** Shell, PowerShell, Windows Batch, VBScript.
+- **Build & deployment:** CMake, Makefiles, Dockerfiles.
 
 <p>
   <img src="assets/tdl/build-loop.svg" width="100%" alt="Research. Build. Test. Ship. Repeat.">
