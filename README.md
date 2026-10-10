@@ -15,32 +15,23 @@
 
 ## The Daily Profiler
 
-<p align="center">
-  <a href="https://thedailyprofiler.com"><img src="assets/tdl/daily-profiler-banner.svg" width="100%" alt="The Daily Profiler — Aligning the Now with the Then."></a>
-</p>
+**From market research to the tools a trading business runs on.** My work spans hands-on development, product direction, and guiding implementation with the team across the organization.
 
-**From market research to the tools a trading business runs on.** My work spans hands-on development, product direction, and guiding implementation with the team across the organization—not just the repositories where I commit code.
+<a href="https://thedailyprofiler.com/products"><img src="assets/tdl/portfolio.svg" width="100%" alt="The Daily Profiler: official logo, actual public product interface, and six connected product areas. Full descriptions follow below."></a>
 
-<a href="https://thedailyprofiler.com/products"><img src="assets/tdl/daily-profiler-app.png" width="100%" alt="Actual Daily Profiler product interface: session filters, market distributions, and historical analysis charts."></a>
+This portfolio spans **market intelligence, research and strategy, platform and data, trader and business applications, education and media, and AI automation**. It includes customer products, internal tools, active development, and experiments. Proprietary source and research stay private.
 
-<sub>Daily Profiler app · Public product imagery from our website.</sub>
+<details>
+<summary><strong>Explore the six product areas</strong></summary>
 
-These six areas cover our full repository portfolio: customer products, internal tools, active development, and experiments. Most of the source stays private; the scope of the work does not have to.
+- **Market Intelligence:** Daily / weekly profiling. Candle analysis. Dashboards, indicators, and replay.
+- **Research + Strategy:** Backtesting, risk, and strategy workbenches. Validation and trading integrations.
+- **Platform + Data:** Market data, shared datasets, and compute. Reusable services, identity, and tooling.
+- **Trader + Business Apps:** Journaling, performance review, and CRM. Accounting and community workflows.
+- **Education + Media:** Bootcamp, curriculum, and lesson studios. Video production and rendering.
+- **Ai + Automation:** Agents, memory, planning, and skills. Content and publishing workflows.
 
-<p align="center">
-  <img src="assets/tdl/org-market.svg" width="400" alt="MARKET INTELLIGENCE: Daily and weekly profiling. Candle analysis. Market dashboards, indicators, and replay.">
-  <img src="assets/tdl/org-research.svg" width="400" alt="RESEARCH + STRATEGY: Backtesting, risk, and strategy workbenches. Validation tools and trading integrations.">
-</p>
-
-<p align="center">
-  <img src="assets/tdl/org-platform.svg" width="400" alt="PLATFORM + DATA: Market data, shared datasets, and compute. Reusable services, identity, and app tooling.">
-  <img src="assets/tdl/org-business.svg" width="400" alt="TRADER + BUSINESS APPS: Journaling, performance review, and CRM. Accounting, placement, and community tools.">
-</p>
-
-<p align="center">
-  <img src="assets/tdl/org-education.svg" width="400" alt="EDUCATION + MEDIA: Bootcamp, curriculum, and lesson studios. Storyboards, video production, and rendering.">
-  <img src="assets/tdl/org-automation.svg" width="400" alt="AI + AUTOMATION: Agents, memory, planning, and shared skills. Content tools and publishing workflows.">
-</p>
+</details>
 
 [Explore the products](https://thedailyprofiler.com/products) · [Bootcamp](https://thedailyprofilerbootcamp.com) · [Meet the team](https://thedailyprofiler.com/about)
 
