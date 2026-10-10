@@ -19,24 +19,27 @@
 
 <a href="https://thedailyprofiler.com/products"><img src="assets/tdl/portfolio.svg" width="100%" alt="The Daily Profiler: official logo, actual public product interface, and six connected product areas. Full descriptions follow below."></a>
 
-This portfolio spans **market intelligence, research and strategy, platform and data, trader and business applications, education and media, and AI automation**. It includes customer products, internal tools, active development, and experiments. Proprietary source and research stay private.
+<p align="center">
+  <a href="https://thedailyprofiler.com/products"><strong>Explore the products ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://thedailyprofilerbootcamp.com"><strong>Visit Bootcamp ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://thedailyprofiler.com/about"><strong>Meet the team ↗</strong></a>
+</p>
 
 <details>
-<summary><strong>Explore the six product areas</strong></summary>
+<summary><strong>Product areas &amp; screenshots</strong></summary>
+
+The portfolio includes customer products, internal tools, active development, and experiments. Proprietary source and research stay private.
 
 - **Market Intelligence:** Daily / weekly profiling. Candle analysis. Dashboards, indicators, and replay.
 - **Research + Strategy:** Backtesting, risk, and strategy workbenches. Validation and trading integrations.
 - **Platform + Data:** Market data, shared datasets, and compute. Reusable services, identity, and tooling.
 - **Trader + Business Apps:** Journaling, performance review, and CRM. Accounting and community workflows.
 - **Education + Media:** Bootcamp, curriculum, and lesson studios. Video production and rendering.
-- **Ai + Automation:** Agents, memory, planning, and skills. Content and publishing workflows.
+- **AI + Automation:** Agents, memory, planning, and skills. Content and publishing workflows.
 
-</details>
 
-[Explore the products](https://thedailyprofiler.com/products) · [Bootcamp](https://thedailyprofilerbootcamp.com) · [Meet the team](https://thedailyprofiler.com/about)
+**Inside Candle Science & Enterprise Journal**
 
-<details>
-<summary><strong>Inside the products: Candle Science &amp; Enterprise Journal</strong></summary>
 <br>
 <a href="https://thedailyprofiler.com/products"><img src="assets/tdl/candle-science.png" width="100%" alt="Candle Science public product screenshot showing candle analysis, filters, and historical probabilities."></a>
 <br><br>
@@ -44,13 +47,20 @@ This portfolio spans **market intelligence, research and strategy, platform and 
 <p><sub>Official public product screenshots. Dashboard figures are demonstration content, not my personal trading results.</sub></p>
 </details>
 
-## More private builds
+## Independent builds
 
-Outside the organization portfolio, I also work on:
+Alongside The Daily Profiler, I build tools for market analysis, business operations, and game development.
 
-- **A custom charting workbench** — a market-analysis workspace with charts, studies, drawing tools, and live data. Rust, Python, and TypeScript; in development.
-- **A business operating platform** — sales, customer delivery, communications, and service operations in one workspace. Python and TypeScript; in development.
-- **A custom game engine** — a 2D action RPG built on my own C++ engine, including rendering and live editing tools. C++ and SDL3; pre-alpha.
+<img src="assets/tdl/independent-builds.svg" width="100%" alt="Independent builds: charting workbench (Rust, Python, TypeScript; in development), business operating platform (Python, TypeScript; in development), and custom game engine (C++, SDL3; pre-alpha).">
+
+<details>
+<summary>Project descriptions &amp; technology</summary>
+
+- **Charting workbench:** Charts, studies, drawing tools, and live data in a custom market-analysis workspace. Rust, Python, and TypeScript. In development.
+- **Business operating platform:** Sales, customer delivery, communications, and service operations. Python and TypeScript. In development.
+- **Custom game engine:** A 2D action RPG on my own C++ engine, with rendering and live editing tools. C++ and SDL3. Pre-alpha.
+
+</details>
 
 ## Open-source flagship
 
