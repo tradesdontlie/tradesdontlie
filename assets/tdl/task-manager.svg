@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="202" viewBox="0 0 470 202" role="img" aria-labelledby="title desc">
+<title id="title">Task Manager MCP</title><desc id="desc">Project planning and task tracking. Turn requirements into actionable work. PYTHON / MODEL CONTEXT PROTOCOL</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141414"/><stop offset="1" stop-color="#060606"/></linearGradient><linearGradient id="silver"><stop stop-color="#fff"/><stop offset=".55" stop-color="#b7b7b7"/><stop offset="1" stop-color="#f5f5f5"/></linearGradient><clipPath id="clip"><path d="M1 1H450L469 20V201H20L1 182Z"/></clipPath></defs>
+<style>.travel{animation:travel 7s linear infinite}.breath{animation:breath 5s ease-in-out infinite}@keyframes travel{from{transform:translateX(-130px)}to{transform:translateX(570px)}}@keyframes breath{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){.travel,.breath{animation:none}}</style>
+<g clip-path="url(#clip)"><path d="M1 1H450L469 20V201H20L1 182Z" fill="url(#bg)" stroke="#373737"/><path d="M0 0H70M0 0V48" stroke="#ffe500" stroke-width="3"/>
+<g transform="translate(285,60)" opacity="0.13"><path d="M0 40H45L70 10H140M45 40L70 85H140M45 40H140" stroke="#666" stroke-width="1.5" fill="none"/><g fill="#ffe500"><circle cx="0" cy="40" r="5"/><circle cx="140" cy="10" r="5"/><circle cx="140" cy="40" r="5"/><circle cx="140" cy="85" r="5"/></g><circle cx="45" cy="40" r="9" stroke="#ffe500" fill="#080808"/></g>
+<text x="26" y="32" fill="#ffe500" font-family="Consolas,monospace" font-size="11" letter-spacing="2">06 / AGENT WORKFLOWS</text>
+<text x="26" y="73" fill="url(#silver)" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="800" letter-spacing="-.7">Task Manager MCP</text>
+<text x="26" y="106" fill="#b5b5b5" font-family="Arial,Helvetica,sans-serif" font-size="14">Project planning and task tracking.</text><text x="26" y="129" fill="#b5b5b5" font-family="Arial,Helvetica,sans-serif" font-size="14">Turn requirements into actionable work.</text>
+<path d="M26 158H444" stroke="#292929"/>
+<circle class="breath" cx="30" cy="178" r="3" fill="#ffe500"/>
+<text x="43" y="182" fill="#d8d8d8" font-family="Consolas,monospace" font-size="11" letter-spacing=".6">PYTHON / MODEL CONTEXT PROTOCOL</text>
+<path d="M429 24H444V39M429 39L444 24" stroke="#ffe500" stroke-width="1.5" fill="none"/>
+<rect class="travel" x="0" y="200" width="100" height="2" fill="#ffe500"/>
+</g></svg>
