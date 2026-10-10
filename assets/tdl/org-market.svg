@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="470" height="218" viewBox="0 0 470 218" role="img" aria-labelledby="title desc">
 <title id="title">MARKET INTELLIGENCE</title><desc id="desc">Read the market. Daily and weekly profiling. Candle analysis. Market dashboards, indicators, and replay.</desc>
-<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#19170d"/><stop offset=".5" stop-color="#0d0d0d"/><stop offset="1" stop-color="#080808"/></linearGradient></defs>
+<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#292109"/><stop offset=".48" stop-color="#15140d"/><stop offset="1" stop-color="#463708"/></linearGradient><radialGradient id="aura"><stop stop-color="#FFD700" stop-opacity=".3"/><stop offset="1" stop-color="#FFD700" stop-opacity="0"/></radialGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#FFD700" stroke-opacity=".065"/></pattern><clipPath id="card"><rect x="1" y="1" width="468" height="216" rx="12"/></clipPath></defs>
 <rect x="1" y="1" width="468" height="216" rx="12" fill="url(#surface)" stroke="#494022"/>
-<path d="M24 1H118" stroke="#FFD700" stroke-width="2"/>
+<g clip-path="url(#card)"><rect x="1" y="1" width="468" height="216" fill="url(#grid)"/><ellipse cx="438" cy="75" rx="190" ry="170" fill="url(#aura)"/><g fill="none" stroke="#FFD700" stroke-opacity=".14"><circle cx="454" cy="26" r="62"/><circle cx="454" cy="26" r="84"/><circle cx="454" cy="26" r="106"/></g><path d="M377 218L470 125V218Z" fill="#FFD700" fill-opacity=".13"/><path d="M419 218L470 167V218Z" fill="#FFD700" fill-opacity=".23"/><path d="M440 218L470 188V218Z" fill="#FFD700"/><path d="M30 216H330" stroke="#FFD700" stroke-opacity=".4"/></g><path d="M24 1H118" stroke="#FFD700" stroke-width="2"/>
 <text x="25" y="38" font-family="Consolas,monospace" font-size="11" letter-spacing="1.3" fill="#FFD700">01 / MARKET INTELLIGENCE</text>
 <text x="25" y="83" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="-.5" fill="#fff">Read the market.</text>
-<text x="25" y="121" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#c0c0c0">Daily and weekly profiling. Candle analysis.</text>
-<text x="25" y="146" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#c0c0c0">Market dashboards, indicators, and replay.</text>
+<text x="25" y="121" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#dedbd0">Daily and weekly profiling. Candle analysis.</text>
+<text x="25" y="146" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#dedbd0">Market dashboards, indicators, and replay.</text>
 <path d="M25 177H445" stroke="#302d20"/><circle cx="29" cy="196" r="3" fill="#FFD700"/>
-<text x="42" y="200" font-family="Consolas,monospace" font-size="10" letter-spacing="1.2" fill="#999">THE DAILY PROFILER / PRODUCT PORTFOLIO</text>
+<text x="42" y="200" font-family="Consolas,monospace" font-size="10" letter-spacing="1.2" fill="#bdb59a">THE DAILY PROFILER / PRODUCT PORTFOLIO</text>
 </svg>

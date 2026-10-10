@@ -16,7 +16,7 @@
 ## The Daily Profiler
 
 <p align="center">
-  <a href="https://thedailyprofiler.com"><img src="assets/tdl/daily-profiler-logo.svg" width="620" alt="The Daily Profiler — Aligning the Now with the Then."></a>
+  <a href="https://thedailyprofiler.com"><img src="assets/tdl/daily-profiler-banner.svg" width="100%" alt="The Daily Profiler — Aligning the Now with the Then."></a>
 </p>
 
 **From market research to the tools a trading business runs on.** My work spans hands-on development, product direction, and guiding implementation with the team across the organization—not just the repositories where I commit code.
